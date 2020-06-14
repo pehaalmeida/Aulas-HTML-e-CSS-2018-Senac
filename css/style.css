@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: #e04028;
+}
+
+a:hover {
+  color: #bb3521;
+}
+
+
+.n1 {
+  background: #f8f8f8;
+  padding: 0px;
+  font-weight: normal;
+}
+
+.n1 p {
+  margin: 0;
+  padding: 10px;
+  color: #aaaaaa;
+}
+
+.t0 {
+  color: #e04028;
+  background: #333333;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.b1 {
+  margin: 0;
+}
+
+.cornav a {
+  color: #e04028;
+}
+
+
+.numero {
+  color: #e04028;
+  float: right;
+  font-weight: normal;
+
+}
+
+.subtitulo {
+  text-align: center;
+  font-size: 16px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.bloco-titulo {
+  text-align: center;
+  font-size: 16px;
+  font-weight: normal;
+  text-transform: uppercase;
+  background: url(../midia/barra.png) bottom center no-repeat;
+  padding: 30px 0;
+  margin: 60px 0;
+}
+
+.bloco-titulo big {
+  display: block;
+  color: #e04028;
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+#bloco-titulo {
+  text-align: center;
+  font-size: 16px;
+  font-weight: normal;
+  text-transform: uppercase;
+  background: url(../midia/barra.png) bottom center no-repeat;
+  padding: 30px 0;
+  margin-bottom: 60px;
+}
+#bloco-titulo big {
+  display: block;
+  color: #e04028;
+  font-size: 28px;
+  margin-top: 0;
+}
+
+.bloco-subtitulo {
+  display: block;
+  color: #e04028;
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.bloco-subtitulo img {
+  margin-top: 110
+}
+
+.bloco-conteudo {
+  line-height: 30px;
+}
+
+.bloco-conteudo b {
+  color: #000;
+}
+
+footer{
+  margin-top: 30px;
+}
+
+.maiuscula {
+  text-transform: uppercase;
+}
+
+.r1 {
+  background: #333333;
+  color: #fff;
+  padding: 60px 0;
+  font-size: 15px;
+}
+
+.texto1 {
+  margin-bottom: 60px;
+  font-size: 25px;
+  padding-right: 45px;
+}
+
+.texto1 a {
+  color: #e04028;
+}
+
+.texto1 big {
+  text-transform: uppercase;
+}
+
+.contatos h4 {
+  margin-bottom: 40px;
+  text-transform: uppercase;
+  padding-left: 10px;
+}
+
+.contatos ul {
+  list-style: none;
+
+}
+
+.contatos ul .fone {
+  background: url(../midia/contact.png) center left no-repeat;
+  padding-left: 35px;
+}
+.contatos ul .email {
+  background: url(../midia/email.png) center left no-repeat;
+  padding-left: 35px;
+}
+.contatos ul .home {
+  background: url(../midia/home.png) center left no-repeat;
+  padding-left: 35px;
+}
+
+
+.texto2 img {
+  margin-bottom: 25px;
+}
+.texto2 p {
+  text-transform: uppercase;
+}
+
+.r2 {
+  background: #222222;
+  color: #fff;
+  font-size: 18px;
+  padding:40px 0;
+  text-transform: uppercase;
+}
+
+.col-form-label {
+  background: #e04028;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color:  #e04028;
+  border-color: #e04028;
+}
+
+.btn-primary:hover {
+  background-color:  #bb3521;
+  border-color: #bb3521;
+}
